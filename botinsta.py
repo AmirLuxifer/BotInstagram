@@ -65,77 +65,13 @@ class instagramBot:
                         time.sleep(randint(200, 240) / 2)
 
 
-user = "_amir.luxifer_"
+user = "username"
 
-passs = "amir0211"
+passs = "password"
 
 com = "Best language for programming"
 
 hashtaghs = "python"
-
-# arezow_645
-# 	123159753
-# bitaow_25965
-# 	123159753
-# bahar_946324
-# 	123159753
-# hanie_sa963
-# 	123159753
-# bahre_mag987
-# 	123159753
-# setareww35963
-#   123159753
-
-# anita.bavari
-#     123159753
-# sara.moradi942
-#     123159753
-# reyhane.habibi952
-#     123159753
-# bitaaww.81
-#     123159753
-# bahare.sajadi_82
-#     123159753
-
-# faeeze.hamidi_83
-#     123159753
-
-"""
-هرچی درمورد عکاسی بخوای داخل این پیج میتونی پیدا کنی @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__
-یکی از بهترین پیج های آموزش عکاسی @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__
-آموزش ژست گرفتن و عکاسی رو میتونین داخل این پیج  ببینید @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__ 
-با این پیج حرفه ای عکاسی کنید  @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__
-یکی از بهترین و حرفه ای ترین پیج های آموزش عکاسی @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__
-یکی از بهترین پیج های عکاسی با استوری های اموزشی و جذاب @_hossein.visiontik__ @_hossein.visiontik__ @_hossein.visiontik__
-"""
-# عکاسی
-# عکاسی_هنری
-# عکاسی_پرتره
-# عکاسی_با_موبایل
-# عکاسی_مدلینگ
-# عکاسی_حرفه_ای
-# مدلینگ
-# مدلینگ_عکاسی
-# مدلینگ_دختر
-# مدلینگ_پسر
-
-
-"""
-با اجازه ادمین سلام عشقا هرکی یه هََکــر مطمعن میخواد به ایدی پایین پیام بده @morteza_help @morteza_help @morteza_help
-خدایی کارش حرف نداره هکــر قدرتمند صادق و کااار درست دمش گرمه حقیقت میگه @morteza_help @morteza_help @morteza_help @morteza_help
-دوستان عزیز هََکر مطمعن سراغ دارم ایدی اینستاشو میدم حتما بهش پیام بدید @morteza_help @morteza_help @morteza_help
-سلام عزیزان هرکسی مشکلی در مورد اینستااا داشت حتما به ایشون مراجعه کنه @morteza_help @morteza_help @morteza_help
-"""
-# اینستاگرام_مارکتینگ
-# هکر_اینستا
-# هکر
-# اخبار
-# هک
-# امنیت_پیج
-# امنیت_اطلاعات
-# امنیت_سایبری
-# امنیت_اینستاگرام
-# اختراع
 
 
 test = instagramBot(user, passs)
