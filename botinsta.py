@@ -6,27 +6,6 @@ except:
     pip install selenium (on CMD)
         """)
 
-try:
-    from selenium.webdriver.common.keys import Keys
-except:
-    print("""\n Please Install selenium\n
-    pip install selenium (on CMD)
-        """)
-
-try:
-    import time
-except:
-    print("""\n Please Install time\n
-    pip install time (on CMD)
-        """)
-
-try:
-    from random import randint, choice
-except:
-    print("""\n Please Install random\n
-    pip install random (on CMD)
-        """)
-
 
 class instagramBot:
 
